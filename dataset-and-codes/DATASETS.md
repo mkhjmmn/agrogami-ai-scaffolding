@@ -14,7 +14,7 @@
 
 | ID | Benchmark / Directory | Modality | Target Schema | Kaggle Mirror |
 |:--:|:----------------------|:--------:|:--------------|:--------------|
-| **01** | `01_UCI_Taiwan_Default/` | Tabular | `data.csv` | [uciml/default-of-credit-card-clients-dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset) |
+| **01** | `01_UCI_Taiwan_Default/` | Tabular | `UCI_Credit_Card.csv` | [uciml/default-of-credit-card-clients-dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset) |
 | **02** | `02_South_German_Credit/` | Tabular | `codetable.txt`, `read_SouthGermanCredit.R`, `SouthGermanCredit.asc` | [tmchls/south-german-credit-update-data-set](https://www.kaggle.com/datasets/tmchls/south-german-credit-update-data-set) |
 
 </details>
@@ -24,7 +24,7 @@
 
 | ID | Benchmark / Directory | Modality | Target Schema | Kaggle Mirror |
 |:--:|:----------------------|:--------:|:--------------|:--------------|
-| **03** | `03_FUNSD/` | Document AI | `training_data/`, `testing_data/` (`annotations/`, `images/`) | [sharmaharsh/form-understanding-noisy-scanned-documentsfunsd](https://www.kaggle.com/datasets/sharmaharsh/form-understanding-noisy-scanned-documentsfunsd) |
+| **03** | `03_FUNSD/` | Document AI | `dataset/` (`testing_data/`, `training_data/`) | [sharmaharsh/form-understanding-noisy-scanned-documentsfunsd](https://www.kaggle.com/datasets/sharmaharsh/form-understanding-noisy-scanned-documentsfunsd) | [sharmaharsh/form-understanding-noisy-scanned-documentsfunsd](https://www.kaggle.com/datasets/sharmaharsh/form-understanding-noisy-scanned-documentsfunsd) |
 | **04** | `04_BanglaWriting/` | Vision / HTR | `raw.zip` | [reasat/banglawriting](https://www.kaggle.com/datasets/reasat/banglawriting) |
 
 </details>
