@@ -67,4 +67,4 @@
 </details>
 
 ---
-<sub>Managed under Group 05_53_06 · Research Documentation</sub>
+<sub>Agrogami AI · CSE 404 (Group 05_53_06) · Literature Review & Research Archive</sub>
