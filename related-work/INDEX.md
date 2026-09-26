@@ -1,8 +1,9 @@
-# 📂 Project Repository Archive
+# 📚 Agrogami AI — Research Corpus & Literature Index
 
-> **Path:** `Group_05_53_06` / `Related Work`  
-> **Total Documents:** 25 PDF Publications  
-> **Domain:** Alternative Credit Scoring, Document AI & Algorithmic Fairness
+> **Directory:** `agrogami-ai-scaffolding` / `related-work`  
+> **Total Documents:** 25 Curated Publications  
+> **Project Scope:** Alternative Credit Scoring, Document AI & Algorithmic Fairness  
+> **Affiliation:** CSE 404 (Group 05_53_06)
 
 ---
 
